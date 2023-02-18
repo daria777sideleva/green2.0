@@ -1,0 +1,35 @@
+.top{
+    flex-wrap: wrap;
+ }
+.top-banner {  
+ background-image:url("banner\ 1\ \(1\).png") ;  
+ background-size: cover;
+ 
+}      
+.text-center {
+    text-align: center!important;
+}
+.content{
+    display: flex;
+}
+.navbar {
+    background-color: rgb(89, 100, 110);
+}
+.top-banner h1,.top-banner h3,.top-banner p{
+    color: aliceblue;
+}
+.karta iframe{
+    margin: 0 auto;
+    text-align: center;
+    line-height: ;
+}
+.footer {
+    background-color: rgb(78, 85, 90);
+}
+.footer p  {
+    color: aliceblue
+
+}
+.seti li{
+  color: aliceblue;   
+}
